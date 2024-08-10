@@ -9,7 +9,7 @@ const iconMap = {
   "01n": "clear-night.png",
 
   "02d": "few-clouds.png",
-  "02n": "few-clouds-night-night.png",
+  "02n": "few-clouds-night.png",
 
   "03d": "scattered-clouds.png",
   "03n": "scattered-clouds-night.png",
